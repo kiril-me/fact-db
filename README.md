@@ -6,6 +6,10 @@ Store knowledge as paragraphs of preprocessed text, that after can be used with 
 
 The database should be elastically extended to any kind of NLP structures. How to represent the knowledge I leave this decision to ML researchers. The database should be simple (no SQL only NLP) and allow easy to use with any ML tools.
 
+# Publications
+Reading Wikipedia to Answer Open-Domain Questions (Danqi Chen) [https://arxiv.org/pdf/1704.00051.pdf]
+Distributed Representations of Sentences and Documents (Quoc Le and Tomas Mikolov) [https://cs.stanford.edu/~quocle/paragraph_vector.pdf]
+
 # Plan
 
 1. Find correct wait of processing and store text data. Posible Spark with Lucene combination.
