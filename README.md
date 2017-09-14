@@ -9,6 +9,7 @@ The database should be elastically extended to any kind of NLP structures. How t
 # Publications
 Reading Wikipedia to Answer Open-Domain Questions (Danqi Chen) [https://arxiv.org/pdf/1704.00051.pdf]
 Distributed Representations of Sentences and Documents (Quoc Le and Tomas Mikolov) [https://cs.stanford.edu/~quocle/paragraph_vector.pdf]
+https://github.com/facebookresearch/Starspace
 
 # Plan
 
